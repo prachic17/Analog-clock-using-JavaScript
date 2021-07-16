@@ -30,7 +30,7 @@ body{
 	transform : translate(-50% , -50%);
 	left:  50%;
 	top : 50%;
-	background-image : url("https://www.freeiconspng.com/uploads/roman-numeral-clock-face-png-4.png");
+	
 	background-size: cover;
 	border-radius: 50%;
 	box-shadow: inset 10px 10px 20px black;
